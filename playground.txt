@@ -1,3 +1,13 @@
+public function Julien () {
+	var test = false;
+
+	if (test) {
+		return true;
+	} else {
+		return false;
+	}
+}
+
 formation git
 toto
 2n branch
