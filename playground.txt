@@ -1,3 +1,13 @@
+public function Julien () {
+	var test = false;
+
+	if (test) {
+		return true;
+	} else {
+		return false;
+	}
+}
+
 formation git
 toto
 2n branch
@@ -13,3 +23,20 @@ pull request Feature 1 Ju
 modif manu feature 2 EM
 Feature Yo Ju
 Feature Yo Ju par Ju
+
+public function Yohann () {
+    var a = 2;
+    var b = "toto"
+
+    if (a != b){
+        alert ('Ca match pas !');
+    }else{
+        console.log('Ca match !');
+    }
+
+    return true;
+}
+
+public function manu(){
+	return toto;
+}
