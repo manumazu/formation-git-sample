@@ -1,2 +1,15 @@
+formation git
+toto
+2n branch
+3thd branche
+4 change master
+rebase 1
+rebase 2
+pull 1
+pull 2
+pull-branch
+pull request Ju
+pull request Feature 1 Ju
+modif manu feature 2 EM
 Feature Yo Ju
 Feature Yo Ju par Ju
