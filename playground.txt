@@ -26,3 +26,7 @@ public function Yohann () {
 
     return true;
 }
+
+public function manu(){
+	return toto;
+}
